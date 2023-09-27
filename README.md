@@ -2,9 +2,8 @@
 
 <div>
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-err0r404&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-err0r404&show_icons=true&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-err0r404&compact_progress=true&theme=transparent)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-err0r404&compact_progress=true&theme=transparent)
 </div>
 
   ##
