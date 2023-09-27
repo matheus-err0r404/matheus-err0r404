@@ -1,4 +1,4 @@
-## Olá! Eu Sou Matheus Dias, Estudante de programação e intusiasta em tecnologia!
+## Olá! Eu Sou Matheus Dias, Estudante de programação e entusiasta em tecnologia!
 
 <div>
   
